@@ -1,25 +1,8 @@
-### Hi there 👋
+### Hi there 👋 Aayush here !
 
-<style>
-.content {
-  max-width: 500px;
-  margin: auto;
-}
-</style>
-<div class="content">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hey-aayush&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</div>
-<!--
-**hey-aayush/hey-aayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hey-aayush&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hey-aayush&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-Here are some ideas to get you started:
+### Visitors Count :eyes:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hey-aayush)
