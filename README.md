@@ -1,5 +1,14 @@
 ### Hi there 👋
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hey-aayush)](https://git.io/streak-stats)
+
+<style>
+.content {
+  max-width: 500px;
+  margin: auto;
+}
+</style>
+<div class="content">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hey-aayush&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</div>
 <!--
 **hey-aayush/hey-aayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
